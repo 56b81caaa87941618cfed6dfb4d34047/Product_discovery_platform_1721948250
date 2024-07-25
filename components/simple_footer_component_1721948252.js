@@ -5,9 +5,7 @@ Vue.component("simple_footer_component_1721948252", {
     <div>
         <nav class="bg-white shadow dark:bg-gray-800">
             <div class="container flex items-center justify-between p-6 mx-auto">
-                <div class="flex items-center">
-                    <a href="#" class="text-2xl font-bold text-gray-800 dark:text-white">ProductScout</a>
-                </div>
+                <a href="#" class="text-2xl font-bold text-gray-800 dark:text-white">ProductScout</a>
                 <div class="flex items-center space-x-4">
                     <a href="#" class="text-gray-700 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white">Home</a>
                     <a href="#" class="text-gray-700 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white">About</a>
